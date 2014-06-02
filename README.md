@@ -1,4 +1,7 @@
-training
+Krypton Cougars (FRC 2539)
 ========
 
-Programmer Training Repository
+Group Members:
+Group Name:
+
+Mission Statement:
